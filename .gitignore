@@ -49,6 +49,22 @@
 modules.order
 Module.symvers
 Mkfile.old
+
+   programa
+   *.layout
+   *.Dev-C++
+   programa
+   programa.exe
+   *.exe
+   *.out
+   *.o
+   *.obj
+   *.layout
+   *.Dev-C++
+   .vscode/
+   .idea/
+   .DS_Store
+   Thumbs.db
 dkms.conf
 
 # debug information files
